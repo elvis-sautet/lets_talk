@@ -85,4 +85,4 @@
 	</p>
 	<h2>Author</h2>
 	<p>
-		The application is created by <a href="https://www.linkedin.com/in/sautet-meritei-b8a8b8b8/">Sautet Meritei</a>.
+		The application is created by <a href="https://www.linkedin.com/in/elvis-sautet/">Sautet Meritei</a>.
